@@ -1,6 +1,6 @@
 /*
- * File: 4-puts.c
- * Auth:Brian
+ * File:puts.c
+ * Auth:Brian Kinuthis <briankinuthia58.com
  */
 
  #include <stdio.h>
