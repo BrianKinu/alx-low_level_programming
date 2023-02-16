@@ -1,7 +1,14 @@
-#include <stdio.h>
+/*
+ * File: 4-puts.c
+ * Auth:Brian
+ */
+
+ #include <stdio.h>
 
 /**
- * main * prints "Programing is like building a multilingual puzzle followed by a newline.
+ * main * prints"Programing is like building a multilingual
+ * puzzle followed by a newline.
+ *
  * Return:Always 0.
  */
 int main(void)
