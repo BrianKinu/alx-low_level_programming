@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 /**
- * main -Prints all single digit number of base 10 starting from 0.
+ * main - Prints all single digit number of base 10 starting from 0.
  *
  * Retur:Always 0.
  */
