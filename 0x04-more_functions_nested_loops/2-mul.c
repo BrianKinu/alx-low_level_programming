@@ -1,3 +1,7 @@
+/*
+ * File:2-mul.c
+ * Auth: BrianKinuthia
+ */
 #include "main.h"
 
 /**
