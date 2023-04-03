@@ -1,18 +1,20 @@
 #include <stdio.h>
 #include "lists.h"
 /**
- * listint_len - get len of list
+ * print_listint - print list
  * Return: size_t
  * @h: list
  */
-size_t listint_len(const listint_t *h)
+size_t print_listint(const listint_t *h)
 {
-	int len = 0;
+	int nodes = 0;
 
 	while (h)
 	{
-		len++;
+		nodes++;
+		printf("%d", h->n);
 		h = h->next;
+		printf("\n");
 	}
-	return (len);
+	return (nodes);
 }
